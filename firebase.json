@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "biznexus-app-download",
     "public": "dist",
     "ignore": [
       "firebase.json",
